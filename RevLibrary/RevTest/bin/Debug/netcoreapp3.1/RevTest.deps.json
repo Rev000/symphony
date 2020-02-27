@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "RevTest/1.0.0": {
+        "dependencies": {
+          "RevLibrary": "1.0.0"
+        },
+        "runtime": {
+          "RevTest.dll": {}
+        }
+      },
+      "RevLibrary/1.0.0": {
+        "runtime": {
+          "RevLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RevTest/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RevLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

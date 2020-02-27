@@ -1,0 +1,14 @@
+C:\Users\alway\source\repos\symphony\RevLibrary\RevTest\bin\Debug\netcoreapp3.1\RevTest.exe
+C:\Users\alway\source\repos\symphony\RevLibrary\RevTest\bin\Debug\netcoreapp3.1\RevTest.deps.json
+C:\Users\alway\source\repos\symphony\RevLibrary\RevTest\bin\Debug\netcoreapp3.1\RevTest.runtimeconfig.json
+C:\Users\alway\source\repos\symphony\RevLibrary\RevTest\bin\Debug\netcoreapp3.1\RevTest.runtimeconfig.dev.json
+C:\Users\alway\source\repos\symphony\RevLibrary\RevTest\bin\Debug\netcoreapp3.1\RevTest.dll
+C:\Users\alway\source\repos\symphony\RevLibrary\RevTest\bin\Debug\netcoreapp3.1\RevTest.pdb
+C:\Users\alway\source\repos\symphony\RevLibrary\RevTest\obj\Debug\netcoreapp3.1\RevTest.csprojAssemblyReference.cache
+C:\Users\alway\source\repos\symphony\RevLibrary\RevTest\obj\Debug\netcoreapp3.1\RevTest.AssemblyInfoInputs.cache
+C:\Users\alway\source\repos\symphony\RevLibrary\RevTest\obj\Debug\netcoreapp3.1\RevTest.AssemblyInfo.cs
+C:\Users\alway\source\repos\symphony\RevLibrary\RevTest\obj\Debug\netcoreapp3.1\RevTest.dll
+C:\Users\alway\source\repos\symphony\RevLibrary\RevTest\obj\Debug\netcoreapp3.1\RevTest.pdb
+C:\Users\alway\source\repos\symphony\RevLibrary\RevTest\bin\Debug\netcoreapp3.1\RevLibrary.dll
+C:\Users\alway\source\repos\symphony\RevLibrary\RevTest\bin\Debug\netcoreapp3.1\RevLibrary.pdb
+C:\Users\alway\source\repos\symphony\RevLibrary\RevTest\obj\Debug\netcoreapp3.1\RevTest.csproj.CopyComplete
