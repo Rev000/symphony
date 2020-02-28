@@ -1,7 +1,6 @@
 C:\Users\alway\source\repos\symphony\RevLibrary\RevLibrary\bin\Debug\netcoreapp3.1\RevLibrary.deps.json
 C:\Users\alway\source\repos\symphony\RevLibrary\RevLibrary\bin\Debug\netcoreapp3.1\RevLibrary.dll
 C:\Users\alway\source\repos\symphony\RevLibrary\RevLibrary\bin\Debug\netcoreapp3.1\RevLibrary.pdb
-C:\Users\alway\source\repos\symphony\RevLibrary\RevLibrary\obj\Debug\netcoreapp3.1\RevLibrary.csprojAssemblyReference.cache
 C:\Users\alway\source\repos\symphony\RevLibrary\RevLibrary\obj\Debug\netcoreapp3.1\RevLibrary.AssemblyInfoInputs.cache
 C:\Users\alway\source\repos\symphony\RevLibrary\RevLibrary\obj\Debug\netcoreapp3.1\RevLibrary.AssemblyInfo.cs
 C:\Users\alway\source\repos\symphony\RevLibrary\RevLibrary\obj\Debug\netcoreapp3.1\RevLibrary.dll
