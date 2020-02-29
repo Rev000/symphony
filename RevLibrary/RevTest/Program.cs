@@ -7,7 +7,7 @@ namespace RevTest
     {
         static void Main(string[] args)
         {
-            LogManager log = new LogManager();
+            LogManager log = new LogManager(null, "_RevLibrary");
 
             log.WriteLine("[Begin Processing]-------");
             for (int index = 0; index < 10; index++)
